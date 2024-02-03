@@ -7,29 +7,55 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: Faudzansauri@gmail.com
 
-## Education:
+## Experience :
 
-#### 1. [Institut Teknologi Adhi Tama Surabaya](https://itats.ac.id/) | Bachelor of Electrical Engineering | Surabaya `2018-2023`
-   - Asistant Laboratorium of Measuring electrical quantities
-   - Asistant Laboratorium of computer programming C
-   - Asistant Laboratorium of Programmable Logic Controller
- #### 2. [SMK KARTIKA](https://www.smkkartika2sby.sch.id/) | Audio Video | Surabaya `2014-2017`
-   - Asistant Laboratorium
-   - student council treasurer
 
-## Work Experience:
-#### 1. [Gereja Mawar Sharon](https://gms.church/) | Mechanical Engineering | Surabaya `7 Month`
-   - Maintaince building electrical and air conditioning systems
-   - Maintenance of building plumbing systems
-   - Making additional electrical installations for certain events
-#### 2. [PT Bank Pembangunan Daerah Jawa Timur](https://www.bankjatim.co.id/) | Electrical Engineering | Surabaya `4 Month`
-   - Maintaince building electrical and air conditioning systems
-   - Maintaince telephone and internet telecommunications systems
-   - Maintain the generator system in the building
-#### 3. [PLN UP2D Surabaya](https://portal.pln.co.id) | Student Intern | Surabaya `2 Month`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage for scada systems
-   - Distribution panel maintenance research
+#### 1. Smart Home IoT
+
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/icons8-html-5.svg" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/icons8-html-5.svg" style="padding-left:150px;" /></img>
+<h4 align="center" > Gambar 1  :  Desain Hardware (A) Desain aplikasi Smarthphone(B) </h4> </p>
+
+<p align="justify">Pada gambar 1 bagian A merupakan gambar desain hardware PCB yang telah dirancang melalui EAGLE PCB yang terdapat beberapa sensor suhu,temperature,arus,tegangan,dan beberapa relay untuk mengatur sebuah beban listrik.Didalam aplikasi android seperti pada gambar 1 bagian B, juga terdapat fungsi dimmer atau sebuah pengatur kecerahan pada lampu yang dapat dikendalikan dengan jarak jauh menggunakan IoT.Project ini  dalam rangka membantu dosen untuk bahan ajar KKN kepada sekolah-sekolah SMK pada Surabaya dan sidoarjo </p>
+
+
+
+#### 2. Prototype Parking sistem
+
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/icons8-html-5.svg" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/icons8-html-5.svg" style="padding-left:150px;" /></img>
+<h4 align="center" > Gambar 1  :  Desain Hardware (A) Desain aplikasi Smarthphone(B) </h4> </p>
+
+
+<p align="justify">Prototype parking sistem adalah sebuah sitem parkir otomatis yang telah ter-integrasi oleh sistem pintar yang memiliki sistem tapping kartu bisa dengan KTP atau card id pada sebuah instansi seperti pada gambar 2B , sistem ini memiliki kamera yang dapat memfoto kendaraan yang akan masuk seperti pada gambar 2A kemudian foto ini akan di simpan pada database yang di kelola oleh rassbery pi 3B dengan bahasa pemrograman MSQL dan PYTHON yang berfungsi sebagai server .Project ini adalah sebagai uji coba mandiri yang dilakukan di rumah.</p>
+
+#### 3. Realtime Website monitoring
+
+
+
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/icons8-html-5.svg" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/icons8-html-5.svg" style="padding-left:150px;" /></img>
+<h4 align="center" > Gambar 1  :  Desain Hardware (A) Desain aplikasi Smarthphone(B) </h4> </p>
+
+<p align="justify">Pada gambar 3 merupakan hardware sistem pengisian batrey pada aki, pada hal ini sistem akan mencatat proses pengisian yaitu tegangan dan arus yang akan disimpan pada sdcard kemudian setiap 2jam sekali sistem akan mengupload isi sdcard untuk ditampilkan pada website.</p>
+
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/icons8-html-5.svg" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/icons8-html-5.svg" style="padding-left:150px;" /></img>
+<h4 align="center" > Gambar 1  :  Desain Hardware (A) Desain aplikasi Smarthphone(B) </h4> </p>
+
+<p align="justify">Setiap 2 jam sekali sistem akan mengupload data kedalam database yang akan ditampilkan pada gambar 5B ,sistem juga dapat menampilkan nilai atau data dalam  5 detik sekali memperbarui data terbaru secara realtime seperti pada gambar 5A. Project ini adalah sebagai bahan penelitian dosen untuk melanjutkan Studi pada Program Doktoral.</p>
+
+#### 4. Robot Transporter
+
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/icons8-html-5.svg" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/icons8-html-5.svg" style="padding-left:150px;" /></img>
+<h4 align="center" > Gambar 1  :  Desain Hardware (A) Desain aplikasi Smarthphone(B) </h4> </p>
+
+
+<p align="justify">Robot transporter adalah robot pemindah barang yang berjalan secara otomatis yang dapat berjalan dan memindahkan barang .Robot ini adalah untuk proses kontes robot atau perlombaan tingkat smp-sma , saya sebagai perancang dan pemrogam untuk mebuat robot transporter ini agar mudah digunakan oleh adik adik SMP-SMA yang mengikuti ekstrakulikuler pada sekolah.Project ini adalah Research And Devlopment pada saat bekerja pada AWG robotic yang di gunakan sebagai robot kontes perlombaan.</p>
+
+
+
 ---
 
 ### Languages and Tools:
