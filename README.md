@@ -67,8 +67,8 @@
 #### 6. Enggine Alarm Overheat 
 
 
-<p align="center"><img align="center" alt="IOT" width="200px" src="./img/7a.png" style="padding-left:150px;"/> </img> 
-<img align="center" alt="IOT" width="200px" src="./img/7b.png" style="padding-left:150px;" /></img>
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/7a.jpg" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/7b.jpg" style="padding-left:150px;" /></img>
 <h4 align="center" > Gambar 7 Pemasangan sensor pada mesin mobil </h4> </p>
 
 
@@ -77,8 +77,8 @@
 #### 7. .Speedbump Monitoring
 
 
-<p align="center"><img align="center" alt="IOT" width="200px" src="./img/8a.png" style="padding-left:150px;"/> </img> 
-<img align="center" alt="IOT" width="200px" src="./img/8b.png" style="padding-left:150px;" /></img>
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/8a.jpg" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/8b.jpg" style="padding-left:150px;" /></img>
 <h4 align="center" > Gambar 7 Pemasangan sensor pada mesin mobil </h4> </p>
 
 
@@ -87,8 +87,8 @@
 #### 8. .Prototype Estemasi Ketebalan Kampas
 
 
-<p align="center"><img align="center" alt="IOT" width="200px" src="./img/9a.png" style="padding-left:150px;"/> </img> 
-<img align="center" alt="IOT" width="200px" src="./img/9b.png" style="padding-left:150px;" /></img>
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/9a.jpg" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/9b.jpg" style="padding-left:150px;" /></img>
 <h4 align="center" >Gambar 9 Prototype Estemasi ketebalan Kampas Rem </h4> </p>
 
 
