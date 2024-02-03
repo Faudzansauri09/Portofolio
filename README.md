@@ -1,8 +1,8 @@
-# Hi there, I'm Faudzan Sauri | [Faudzan's Profile ](https://github.com/Faudzansauri09/Profile) 👋
-## About me: 
-Detail-oriented professional Engineer with 1 year experience as a Technician and creating many IoT Microcontroller, robotics and database web design projects. Skilled in both hardware and software. Have good oral and verbal communication skills, and able to explain complex software problems in terms that are easy to understand.
+# Halo , Saya Faudzan Sauri | [Faudzan's Profile ](https://github.com/Faudzansauri09/Profile) 👋
+## Tentang Saya : 
+Insinyur profesional yang berorientasi pada detail dengan pengalaman 1 tahun sebagai Teknisi dan menciptakan banyak proyek desain web Mikrokontroler IoT, robotika, dan database. Terampil dalam perangkat keras dan perangkat lunak. Memiliki kemampuan komunikasi lisan dan verbal yang baik, serta mampu menjelaskan permasalahan perangkat lunak yang kompleks dalam istilah yang mudah dipahami.
 
-## Experience :
+## Pengalaman Portofolio :
 
 
 #### 1. Smart Home IoT
@@ -94,7 +94,7 @@ Detail-oriented professional Engineer with 1 year experience as a Technician and
 
 ---
 
-### Languages and Tools:
+### Skill Pemrogaman :
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
@@ -106,7 +106,7 @@ Detail-oriented professional Engineer with 1 year experience as a Technician and
 <br />
 
 ---
-### Connect with me:
+### Hubungi Saya :
 
 [![website](./img/youtube-light.svg)](https://www.youtube.com/@faudzansauri7620#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/@faudzansauri7620#gh-dark-mode-only)
