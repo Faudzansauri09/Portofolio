@@ -33,14 +33,14 @@
 
 
 
-<p align="center"><img align="center" alt="IOT" width="200px" src="./img/3a.jpg" style="padding-left:150px;"/> </img> 
-<img align="center" alt="IOT" width="200px" src="./img/3b.jpg" style="padding-left:150px;" /></img>
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/3a.png" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/3b.png" style="padding-left:150px;" /></img>
 <h4 align="center" > Gambar 3  Hardware Panel surya(A) Sistem kontrol (B)</h4> </p>
 
 <p align="justify">Pada gambar 3 merupakan hardware sistem pengisian batrey pada aki, pada hal ini sistem akan mencatat proses pengisian yaitu tegangan dan arus yang akan disimpan pada sdcard kemudian setiap 2jam sekali sistem akan mengupload isi sdcard untuk ditampilkan pada website.</p>
 
-<p align="center"><img align="center" alt="IOT" width="200px" src="./img/4a.jpg" style="padding-left:150px;"/> </img> 
-<img align="center" alt="IOT" width="200px" src="./img/4b.jpg" style="padding-left:150px;" /></img>
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/4a.png" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/4b.png" style="padding-left:150px;" /></img>
 <h4 align="center" > Gambar 4 Interface Realtime Monitoring (A) Data logger website (B)</h4> </p>
 
 <p align="justify">Setiap 2 jam sekali sistem akan mengupload data kedalam database yang akan ditampilkan pada gambar 5B ,sistem juga dapat menampilkan nilai atau data dalam  5 detik sekali memperbarui data terbaru secara realtime seperti pada gambar 5A. Project ini adalah sebagai bahan penelitian dosen untuk melanjutkan Studi pada Program Doktoral.</p>
@@ -48,7 +48,7 @@
 #### 4. Robot Transporter
 
 <p align="center"><img align="center" alt="IOT" width="200px" src="./img/5a.jpg" style="padding-left:150px;"/> </img> 
-<img align="center" alt="IOT" width="200px" src="./img/5b.jpg" style="padding-left:150px;" /></img>
+<img align="center" alt="IOT" width="200px" height="180" src="./img/5b.jpg" style="padding-left:150px;" /></img>
 <h4 align="center" > Gambar 5 Perancangan robot transporter </h4> </p>
 
 
@@ -57,8 +57,8 @@
 #### 5. Website Penjualan
 
 
-<p align="center"><img align="center" alt="IOT" width="200px" src="./img/6a.jpg" style="padding-left:150px;"/> </img> 
-<img align="center" alt="IOT" width="200px" src="./img/6b.jpg" style="padding-left:150px;" /></img>
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/6a.png" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/6b.png" style="padding-left:150px;" /></img>
 <h4 align="center" > Gambar 6 website penjualan dan stok gudang </h4> </p>
 
 
