@@ -64,6 +64,37 @@
 
 <p align="justify">Membuat website penjulan yang menampilkan informasi toko penjualan dan membuat list database stok barang pada gudang serta dapat menampilkan informasi laporan penjualan, hal ini dapat memudahkan para karyawan dan pemilik agar proses penjualan dan update stok barang dengan mudah dan lebih efesien. Project ini adalah sebagai uji coba mandiri yang dilakukan di rumah.</p>
 
+#### 6. Enggine Alarm Overheat 
+
+
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/7a.png" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/7b.png" style="padding-left:150px;" /></img>
+<h4 align="center" > Gambar 7 Pemasangan sensor pada mesin mobil </h4> </p>
+
+
+<p align="justify">Sistem keamanan mesin mobil pada saat overheat atau suhu pada mesin mobil mencapai suhu maksimal yang dapat menyebabkan mesin mobil rusak.Sistem ini dapat memberi tahu pengguna agar dapat mendinginkan mesin mobil pada saat suhu yang telah  di tentukan sebelum mesin mobil terjadi overheat,hal ini dapat menyebabkan adanya waktu pendinginan dan tidak terjadi kerusakan pada mesin mobil.Sistem ini juga dapat di monitoring jarak jauh dengan system IoT yang terkoneksi oleh pemilik rental mobil sehingga dapat mengetahui performa masing-masing mobil.Project ini dibuat untuk kendala yang sering di alami oleh pemilik rental mobil..</p>
+
+#### 7. .Speedbump Monitoring
+
+
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/8a.png" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/8b.png" style="padding-left:150px;" /></img>
+<h4 align="center" > Gambar 7 Pemasangan sensor pada mesin mobil </h4> </p>
+
+
+<p align="justify">Speedbump adalah sebuah pembangkit listrik yang mengandalkan tekanan, konsep speedbump ini dengan cara seperti polisi tidur yang terjadi adanya tenaga listrik dihasilkan oleh tekanan kendaraan yang melewatinya.Speedbump ini dipasang pada pintu masuk perusahaan yang dapat menghasilkan tenaga listrik untuk post satpam.Energy yang di dapatkan dapat menyalakan lampu,dispenser ,dan televise pada pos satpam yang dapat di monitoring dengan IoT.Project ini dibuat pada Integrated terminal Perak Surabaya..</p>
+
+#### 8. .Prototype Estemasi Ketebalan Kampas
+
+
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/9a.png" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/9b.png" style="padding-left:150px;" /></img>
+<h4 align="center" >Gambar 9 Prototype Estemasi ketebalan Kampas Rem </h4> </p>
+
+
+<p align="justify">Prototype Estemasi Ketebalan Kampas adalah system yang dapat mensimulasi ketebalan pada kampas rem.Pada prototype ini menggunakan motor listtrik 1phase digunakan sebagai simulasi mein mobil/sepeda motor yang berfungsi sebagai putaran .Sistem ini dapat mendeteksi sisa ketebalan kampas rem  yang dapat di simulasikan pada prototype ini.
+.</p>
+
 
 
 ---
