@@ -1,11 +1,6 @@
-# Hi there, I'm Faudzan Sauri | [Faudzan](https://www.youtube.com/@faudzansauri7620) 👋
+# Hi there, I'm Faudzan Sauri | [Faudzan's Profile ](https://github.com/Faudzansauri09/Profile) 👋
 ## About me: 
-- 🔭 I’m currently working as Electrical Engineering
-- 🌱 I’m currently learning VB and PYHTON
-- 👯 I’m looking to collaborate as ELectrical and Website
-- 🤔 I’m looking for suggest for Rust Project Ideas
-- 💬 Ask me about anything
-- 📫 How to reach me: Faudzansauri@gmail.com
+Detail-oriented professional Engineer with 1 year experience as a Technician and creating many IoT Microcontroller, robotics and database web design projects. Skilled in both hardware and software. Have good oral and verbal communication skills, and able to explain complex software problems in terms that are easy to understand.
 
 ## Experience :
 
@@ -67,8 +62,8 @@
 #### 6. Enggine Alarm Overheat 
 
 
-<p align="center"><img align="center" alt="IOT" width="200px" src="./img/7a.jpg" style="padding-left:150px;"/> </img> 
-<img align="center" alt="IOT" width="200px" src="./img/7b.jpg" style="padding-left:150px;" /></img>
+<p align="center"><img align="center" alt="IOT" width="200px" height="170" src="./img/7a.jpg" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" height="170" src="./img/7b.jpg" style="padding-left:150px;" /></img>
 <h4 align="center" > Gambar 7 Pemasangan sensor pada mesin mobil </h4> </p>
 
 
@@ -77,8 +72,8 @@
 #### 7. .Speedbump Monitoring
 
 
-<p align="center"><img align="center" alt="IOT" width="200px" src="./img/8a.jpg" style="padding-left:150px;"/> </img> 
-<img align="center" alt="IOT" width="200px" src="./img/8b.jpg" style="padding-left:150px;" /></img>
+<p align="center"><img align="center" alt="IOT" width="200px"height="170" src="./img/8a.jpg" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" height="170" src="./img/8b.jpg" style="padding-left:150px;" /></img>
 <h4 align="center" > Gambar 7 Pemasangan sensor pada mesin mobil </h4> </p>
 
 
@@ -87,8 +82,8 @@
 #### 8. .Prototype Estemasi Ketebalan Kampas
 
 
-<p align="center"><img align="center" alt="IOT" width="200px" src="./img/9a.jpg" style="padding-left:150px;"/> </img> 
-<img align="center" alt="IOT" width="200px" src="./img/9b.jpg" style="padding-left:150px;" /></img>
+<p align="center"><img align="center" alt="IOT" width="200px" height="170" src="./img/9a.jpg" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" height="170" src="./img/9b.jpg" style="padding-left:150px;" /></img>
 <h4 align="center" >Gambar 9 Prototype Estemasi ketebalan Kampas Rem </h4> </p>
 
 
