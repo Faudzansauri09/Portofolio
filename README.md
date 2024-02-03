@@ -22,8 +22,8 @@
 
 #### 2. Prototype Parking sistem
 
-<p align="center"><img align="center" alt="IOT" width="200px" src="./img/icons8-html-5.svg" style="padding-left:150px;"/> </img> 
-<img align="center" alt="IOT" width="200px" src="./img/icons8-html-5.svg" style="padding-left:150px;" /></img>
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/1a.jpg" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/1b.jpg" style="padding-left:150px;" /></img>
 <h4 align="center" > Gambar 1  :  Desain Hardware (A) Desain aplikasi Smarthphone(B) </h4> </p>
 
 
@@ -33,8 +33,8 @@
 
 
 
-<p align="center"><img align="center" alt="IOT" width="200px" src="./img/icons8-html-5.svg" style="padding-left:150px;"/> </img> 
-<img align="center" alt="IOT" width="200px" src="./img/icons8-html-5.svg" style="padding-left:150px;" /></img>
+<p align="center"><img align="center" alt="IOT" width="200px" src="./img/2a.jpg" style="padding-left:150px;"/> </img> 
+<img align="center" alt="IOT" width="200px" src="./img/2b.jpg" style="padding-left:150px;" /></img>
 <h4 align="center" > Gambar 1  :  Desain Hardware (A) Desain aplikasi Smarthphone(B) </h4> </p>
 
 <p align="justify">Pada gambar 3 merupakan hardware sistem pengisian batrey pada aki, pada hal ini sistem akan mencatat proses pengisian yaitu tegangan dan arus yang akan disimpan pada sdcard kemudian setiap 2jam sekali sistem akan mengupload isi sdcard untuk ditampilkan pada website.</p>
